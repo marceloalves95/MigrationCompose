@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MigrationCompose</string>
+    <string name="open_shimmer">Abrir tela de shimmer</string>
+    <string name="open_shimmer_compose">Abrir tela de shimmer com compose</string>
+    <string name="shimmer_title">Shimmer</string>
+    <string name="shimmer_compose_title">Shimmer Compose</string>
+</resources>
